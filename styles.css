@@ -7,7 +7,7 @@ body {
 }
 
 /* Медіа-запит для екранів до 768px (планшети та мобільні) */
-@media (max-width: 768px) {
+@media (max-width: 1440px) {
     .header {
         flex-direction: column; /* Стовпчик для всіх елементів хедера */
         align-items: center;    /* Вирівнювання по центру */
